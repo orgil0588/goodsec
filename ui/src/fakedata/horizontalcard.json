@@ -1,0 +1,27 @@
+[
+  {
+    "image": "https://firebasestorage.googleapis.com/v0/b/stock-cloud-5d1b0.appspot.com/o/apu.png?alt=media&token=f63f0dee-a7da-4055-b76b-f0b21b29c143",
+    "ticker": "APU",
+    "price": "1,377",
+    "change": 3.86
+  },
+  {
+    "image": "https://firebasestorage.googleapis.com/v0/b/stock-cloud-5d1b0.appspot.com/o/ttl.png?alt=media&token=35667ceb-9725-4e34-8a06-26e7a3b76ba1",
+    "ticker": "TTL",
+    "price": "6,780",
+    "change": -3.01
+  },
+  {
+    "image": "https://firebasestorage.googleapis.com/v0/b/stock-cloud-5d1b0.appspot.com/o/mndl.png?alt=media&token=6c71b662-673d-4922-a75d-49e051e87eb4",
+    "ticker": "MNDL",
+    "price": "104.97",
+    "change": -0.99
+  },
+  {
+    "image": "https://firebasestorage.googleapis.com/v0/b/stock-cloud-5d1b0.appspot.com/o/aic.png?alt=media&token=baa8aae7-e345-4123-9ffa-54a04aee49ba",
+    "ticker": "AARD",
+    "price": "4,684",
+    "change": -0.71
+  }
+]
+
